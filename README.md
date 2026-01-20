@@ -1,16 +1,20 @@
 # 🛡️ Security-Advisories
 
-> 个人原创漏洞研究与安全公告。主要记录挖掘到的 0day/1day 细节、PoC 以及深度技术分析。
+> Personal security research and original vulnerability advisories. Focus on 0day/1day discovery, PoC development, and technical analysis.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Type](https://img.shields.io/badge/focus-Original%20Vulnerabilities-red.svg)
+![Focus](https://img.shields.io/badge/focus-Original%20Vulnerabilities-red.svg)
 
-## 📖 简介
-本仓库作为一个公开的漏洞披露日志，旨在分享技术研究成果，推动厂商修复漏洞，并与安全社区共同进步。
+## 📖 Introduction
+This repository serves as a public disclosure log to share research findings, facilitate vendor patching, and contribute to the security community.
 
-- **原创性**：所有记录均源于个人实战挖掘。
-- **合规性**：所有披露均遵循负责任的披露原则（Responsible Disclosure）。
-- **实战化**：侧重于提供完整的重现步骤与修复方案。
+- **Originality**: All findings are derived from personal research.
+- **Compliance**: Follows Responsible Disclosure principles.
+- **In-depth**: Includes full reproduction steps, Dorks, and remediation.
 
-## ⚠️ 免责声明
-本仓库提供的所有内容仅供安全研究与教学之用。使用者若将其用于非法用途，由使用者自行承担全部责任，本人不承担任何法律责任。
+## 🔗 Internal Links
+Looking for more PoCs? Check out my curated collection:
+* [🚀 Vulnerability-Wiki-PoC](https://github.com/SourByte05/Vulnerability-Wiki-PoC) - 1Day vulnerability research and reproduction logs.
+
+## ⚠️ Disclaimer
+All content is for educational and research purposes only. The author is not responsible for any illegal use of this information.
